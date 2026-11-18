@@ -1,0 +1,75 @@
+{
+ "license": "Owned by the game's owner; used in Anime Auction Universe.",
+ "tracks": [
+  {
+   "title": "Power Surge",
+   "artist": "Code X",
+   "file": "music/code-x/power-surge.mp3",
+   "cover": "music/covers/code-x.webp",
+   "bytes": 3741405
+  },
+  {
+   "title": "Take the Sky",
+   "artist": "Code X",
+   "file": "music/code-x/take-the-sky.mp3",
+   "cover": "music/covers/code-x.webp",
+   "bytes": 4042134
+  },
+  {
+   "title": "Dark Wing",
+   "artist": "Jinglediles",
+   "file": "music/jinglediles/dark-wing.mp3",
+   "cover": "music/covers/jinglediles.webp",
+   "bytes": 2333485
+  },
+  {
+   "title": "Naked Queen",
+   "artist": "Jinglediles",
+   "file": "music/jinglediles/naked-queen.mp3",
+   "cover": "music/covers/jinglediles.webp",
+   "bytes": 4392470
+  },
+  {
+   "title": "Rise of the Tyrant",
+   "artist": "Jinglediles",
+   "file": "music/jinglediles/rise-of-the-tyrant.mp3",
+   "cover": "music/covers/jinglediles.webp",
+   "bytes": 2535765
+  },
+  {
+   "title": "Overdrive",
+   "artist": "Sonomi Sound",
+   "file": "music/sonomi-sound/overdrive.mp3",
+   "cover": "music/covers/sonomi-sound.webp",
+   "bytes": 4484178
+  },
+  {
+   "title": "Path of Heaven",
+   "artist": "Sonomi Sound",
+   "file": "music/sonomi-sound/path-of-heaven.mp3",
+   "cover": "music/covers/sonomi-sound.webp",
+   "bytes": 2175901
+  },
+  {
+   "title": "Power of One",
+   "artist": "Sonomi Sound",
+   "file": "music/sonomi-sound/power-of-one.mp3",
+   "cover": "music/covers/sonomi-sound.webp",
+   "bytes": 3949469
+  },
+  {
+   "title": "Towards Victory",
+   "artist": "Sonomi Sound",
+   "file": "music/sonomi-sound/towards-victory.mp3",
+   "cover": "music/covers/sonomi-sound.webp",
+   "bytes": 2635211
+  },
+  {
+   "title": "Under Moon",
+   "artist": "Sonomi Sound",
+   "file": "music/sonomi-sound/under-moon.mp3",
+   "cover": "music/covers/sonomi-sound.webp",
+   "bytes": 4003636
+  }
+ ]
+}
