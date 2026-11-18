@@ -1,0 +1,625 @@
+{
+ "1228": {
+  "file": "cards/1228_patry-single-canonical-peak.webp",
+  "character": "Patry",
+  "form": "Single Canonical Peak",
+  "official": false,
+  "source": "kimichan.art",
+  "artist": "kimichan.art",
+  "width": 692,
+  "height": 519,
+  "original": "Patry - Single Canonical Peak - Black Clover - kimichan.art.png"
+ },
+ "0001": {
+  "file": "cards/0001_naruto-uzumaki-baryon-mode.webp",
+  "character": "Naruto Uzumaki",
+  "form": "Baryon Mode",
+  "official": true,
+  "source": "Official Anime Art",
+  "width": 736,
+  "height": 552,
+  "original": "Naruto Uzumaki - Baryon Mode - Naruto - Official Anime Art.jpg"
+ },
+ "0026": {
+  "file": "cards/0026_yhwach-soul-king-absorbed.webp",
+  "character": "Yhwach",
+  "form": "Soul King Absorbed",
+  "official": false,
+  "source": "angelrico_art",
+  "artist": "angelrico_art",
+  "width": 447,
+  "height": 335,
+  "original": "Yhwach - Soul King Absorbed - Bleach - angelrico_art.jpg"
+ },
+ "0027": {
+  "file": "cards/0027_sosuke-aizen-tybw-hogyoku.webp",
+  "character": "Sosuke Aizen",
+  "form": "TYBW Hogyoku",
+  "official": true,
+  "source": "Official Manga Art",
+  "width": 1520,
+  "height": 1200,
+  "original": "Sosuke Aizen - TYBW Hogyoku - Bleach - Official Manga Art.jpg"
+ },
+ "0029": {
+  "file": "cards/0029_ichigo-kurosaki-true-bankai.webp",
+  "character": "Ichigo Kurosaki",
+  "form": "True Bankai",
+  "official": false,
+  "source": "Crain1Art",
+  "artist": "Crain1Art",
+  "width": 1600,
+  "height": 1277,
+  "original": "Ichigo Kuroski - True Bankai - Bleach - Crain1Art.jpg"
+ },
+ "0049": {
+  "file": "cards/0049_lucius-zogratis-peak.webp",
+  "character": "Lucius Zogratis",
+  "form": "Peak",
+  "official": true,
+  "source": "Official Manga Art",
+  "width": 972,
+  "height": 729,
+  "original": "Lucius Zogratis - Peak - Black Clover - Official Manga Art.jpg"
+ },
+ "0050": {
+  "file": "cards/0050_asta-wizard-king.webp",
+  "character": "Asta",
+  "form": "Wizard King",
+  "official": true,
+  "source": "Official Anime Art",
+  "width": 1139,
+  "height": 854,
+  "original": "Asta - Wizard King - Black Clover - Official Anime Art.png"
+ },
+ "0051": {
+  "file": "cards/0051_yuno-grinberryall-peak-spirit-star-magic.webp",
+  "character": "Yuno Grinberryall",
+  "form": "Peak Spirit Star Magic",
+  "official": true,
+  "source": "Official Manga Art",
+  "width": 1600,
+  "height": 1200,
+  "original": "Yuno Grinberryall - Peak Spirit Star Magic - Black Clover - Official Manga Art.jpg"
+ },
+ "0052": {
+  "file": "cards/0052_lucifero-manifested-peak.webp",
+  "character": "Lucifero",
+  "form": "Manifested Peak",
+  "official": true,
+  "source": "Official Manga Art",
+  "width": 1130,
+  "height": 848,
+  "original": "Lucifero - Manifested Peak - Black Clover - Official Manga Art.jpg"
+ },
+ "0053": {
+  "file": "cards/0053_julius-novachrono-peak-julius-identity.webp",
+  "character": "Julius Novachrono",
+  "form": "Peak Julius Identity",
+  "official": true,
+  "source": "Official Game Art",
+  "width": 287,
+  "height": 215,
+  "original": "Julius Novachrono - Peak Julius Identity - Black Clover - Official Game Art.jpg"
+ },
+ "0054": {
+  "file": "cards/0054_mereoleona-vermillion-peak-hellfire-incarnate.webp",
+  "character": "Mereoleona Vermillion",
+  "form": "Peak Hellfire Incarnate",
+  "official": true,
+  "source": "Official Anime Art",
+  "width": 667,
+  "height": 500,
+  "original": "Mereoleona Vermillion - Peak Hellfire Incarnate - Black Clover - Official Anime Art.jpg"
+ },
+ "0055": {
+  "file": "cards/0055_yami-sukehiro-dual-sword-devil-peak.webp",
+  "character": "Yami Sukehiro",
+  "form": "Dual Sword Devil Peak",
+  "official": true,
+  "source": "Official Manga Art",
+  "width": 445,
+  "height": 334,
+  "original": "Yami Sukehiro - Dual Sword Devil Peak - Black Clover - Official Manga Art.jpg"
+ },
+ "0056": {
+  "file": "cards/0056_noelle-silva-valkyrie-leviathan.webp",
+  "character": "Noelle Silva",
+  "form": "Valkyrie Leviathan",
+  "official": true,
+  "source": "Official Manga Art",
+  "width": 250,
+  "height": 188,
+  "original": "Noelle Silva - Valkyrie Leviathan - Black Clover - Official Manga Art.jpg"
+ },
+ "0057": {
+  "file": "cards/0057_zagred-word-soul-magic.webp",
+  "character": "Zagred",
+  "form": "Word Soul Magic",
+  "official": true,
+  "source": "Official Anime Art",
+  "width": 960,
+  "height": 720,
+  "original": "Zagred - Word Soul Magic - Black Clover - Official Anime Art.jpg"
+ },
+ "0058": {
+  "file": "cards/0058_zenon-zogratis-devil-heart.webp",
+  "character": "Zenon Zogratis",
+  "form": "Devil Heart",
+  "official": true,
+  "source": "Official Manga Art",
+  "width": 360,
+  "height": 270,
+  "original": "Zenon Zogratis - Devil Heart - Black Clover - Official Manga Art.jpg"
+ },
+ "0079": {
+  "file": "cards/0079_sung-jinwoo-shadow-monarch-peak.webp",
+  "character": "Sung Jinwoo",
+  "form": "Shadow Monarch Peak",
+  "official": true,
+  "source": "Official Manhwa Art",
+  "width": 728,
+  "height": 546,
+  "original": "Sung Jinwoo - Shadow Monarch Peak - Solo Leveling - Official Manhwa Art.jpg"
+ },
+ "0108": {
+  "file": "cards/0108_darkness-devil-peak.webp",
+  "character": "Darkness Devil",
+  "form": "Peak",
+  "official": true,
+  "source": "Official Manga Art",
+  "width": 784,
+  "height": 588,
+  "original": "Darkness Devil - Peak - Chainsaw Man - Official Manga Art.jpg"
+ },
+ "0117": {
+  "file": "cards/0117_shinra-kusakabe-shinrabanshoman.webp",
+  "character": "Shinra Kusakabe",
+  "form": "Shinrabanshoman",
+  "official": true,
+  "source": "Official Anime Art",
+  "width": 553,
+  "height": 415,
+  "original": "Shinra Kisakabe - Shinrabanshoman - Fire Force - Official Anime Art.jpg"
+ },
+ "0143": {
+  "file": "cards/0143_acnologia-dragon-peak.webp",
+  "character": "Acnologia",
+  "form": "Dragon Peak",
+  "official": false,
+  "source": "Chreii05",
+  "artist": "Chreii05",
+  "width": 1600,
+  "height": 1200,
+  "original": "Acnologia - Dragon Peak - Fairy Tail - Chreii05.png"
+ },
+ "0164": {
+  "file": "cards/0164_arthur-pendragon-king-of-chaos.webp",
+  "character": "Arthur Pendragon",
+  "form": "King of Chaos",
+  "official": false,
+  "source": "tiomejico",
+  "artist": "tiomejico",
+  "width": 1600,
+  "height": 1200,
+  "original": "Arthur Pendragon - King of Chaos - Seven Deadly Sins - tiomejico.png"
+ },
+ "0183": {
+  "file": "cards/0183_giorno-giovanna-gold-experience-requiem.webp",
+  "character": "Giorno Giovanna",
+  "form": "Gold Experience Requiem",
+  "official": true,
+  "source": "Official Anime Art",
+  "width": 602,
+  "height": 452,
+  "original": "Giorno Giovanna - Gold Experience Requiem - Jojo's Bizarre Adventure - Official Anime Art.jpg"
+ },
+ "0277": {
+  "file": "cards/0277_lucifer-peak.webp",
+  "character": "Lucifer",
+  "form": "Peak",
+  "official": true,
+  "source": "Official Anime Art",
+  "width": 300,
+  "height": 225,
+  "original": "Lucifer - Peak - Blue Exorcist - Official Anime Art.jpg"
+ },
+ "0279": {
+  "file": "cards/0279_rin-okumura-awakened-demon-heart.webp",
+  "character": "Rin Okumura",
+  "form": "Awakened Demon Heart",
+  "official": false,
+  "source": "Grinu",
+  "artist": "Grinu",
+  "width": 900,
+  "height": 675,
+  "original": "Rin Okumura - Awakened Demon Heart - Blue Exorcist - Grinu.png"
+ },
+ "0360": {
+  "file": "cards/0360_rimuru-tempest-demon-lord-ciel.webp",
+  "character": "Rimuru Tempest",
+  "form": "Demon Lord Ciel",
+  "official": true,
+  "source": "Official Anime Art",
+  "width": 1600,
+  "height": 1200,
+  "original": "Rimuru Tempest - Demon Lord Ciel - That Time I Got Reincarnated As A Slime - Official Anime Art.png"
+ },
+ "0363": {
+  "file": "cards/0363_guy-crimson-peak.webp",
+  "character": "Guy Crimson",
+  "form": "Peak",
+  "official": true,
+  "source": "Official Anime Art",
+  "width": 600,
+  "height": 450,
+  "original": "Guy Crimson - Peak - That Time I Got Reincarnated As A Slime - Official Anime Art.jpg"
+ },
+ "0364": {
+  "file": "cards/0364_milim-nava-peak.webp",
+  "character": "Milim Nava",
+  "form": "Peak",
+  "official": true,
+  "source": "Official Game Art",
+  "width": 736,
+  "height": 552,
+  "original": "Milim Nava - Peak - That Time I Got Reincarnated As A Slime - Official Game Art.jpg"
+ },
+ "0498": {
+  "file": "cards/0498_mori-jin-final-true-form.webp",
+  "character": "Mori Jin",
+  "form": "Final True Form",
+  "official": true,
+  "source": "Official Aime Art",
+  "width": 707,
+  "height": 530,
+  "original": "Mori Jin - Final True Form - The God of High School - Official Aime Art.jpg"
+ },
+ "0526": {
+  "file": "cards/0526_saitama-latest-demonstrated.webp",
+  "character": "Saitama",
+  "form": "Latest demonstrated",
+  "official": false,
+  "source": "Ala21ddin21",
+  "artist": "Ala21ddin21",
+  "width": 452,
+  "height": 339,
+  "original": "Saitama - Latest demonstrated - One Punch Man - Ala21ddin21.jpg"
+ },
+ "0577": {
+  "file": "cards/0577_simon-super-tengen-toppa-gurren-lagann.webp",
+  "character": "Simon",
+  "form": "Super Tengen Toppa Gurren Lagann",
+  "official": true,
+  "source": "Official Anime Art",
+  "width": 751,
+  "height": 563,
+  "original": "Simon - Super Tengen Toppa Gurren Lagann - Gurren Lagann - Official Anime Art.jpg"
+ },
+ "0579": {
+  "file": "cards/0579_viral-tengen-toppa-gurren-lagann.webp",
+  "character": "Viral",
+  "form": "Tengen Toppa Gurren Lagann",
+  "official": false,
+  "source": "Edobox",
+  "artist": "Edobox",
+  "width": 640,
+  "height": 480,
+  "original": "Viral - Tengen Toppa Gurren Lagann - Gurren Lagann - Edobox.jpg"
+ },
+ "0701": {
+  "file": "cards/0701_sparda-legendary-prime.webp",
+  "character": "Sparda",
+  "form": "Legendary Prime",
+  "official": true,
+  "source": "Official Game Art",
+  "width": 1440,
+  "height": 1080,
+  "original": "Sparda - Legendary Prime - Devil May Cry - Official Game Art.jpg"
+ },
+ "0734": {
+  "file": "cards/0734_gilgamesh-stay-night-archer.webp",
+  "character": "Gilgamesh",
+  "form": "Stay Night Archer",
+  "official": false,
+  "source": "otemoto02",
+  "artist": "otemoto02",
+  "width": 1600,
+  "height": 1200,
+  "original": "Gilgamesh - Stay Night Archer - Fate stay Night - otemoto02.jpg"
+ },
+ "0837": {
+  "file": "cards/0837_nacht-faust-single-canonical-peak.webp",
+  "character": "Nacht Faust",
+  "form": "Single Canonical Peak",
+  "official": true,
+  "source": "Official Anime Art",
+  "width": 715,
+  "height": 537,
+  "original": "Nacht Faust - Single Canonical Peak - Black Clover - Official Anime Art.jpg"
+ },
+ "0845": {
+  "file": "cards/0845_licht-single-canonical-peak.webp",
+  "character": "Licht",
+  "form": "Single Canonical Peak",
+  "official": true,
+  "source": "Official Anime Art",
+  "width": 749,
+  "height": 562,
+  "original": "Licht - Single Canonical Peak - Black Clover - Official Anime Art.jpg"
+ },
+ "0846": {
+  "file": "cards/0846_lumiere-silvamillion-clover-single-canonical-peak.webp",
+  "character": "Lumiere Silvamillion Clover",
+  "form": "Single Canonical Peak",
+  "official": true,
+  "source": "Official Anime Art",
+  "width": 501,
+  "height": 376,
+  "original": "Lumiere Silvamillion Clover - Single Canonical Peak - Black Clover - Official Anime Art.jpg"
+ },
+ "0847": {
+  "file": "cards/0847_dante-zogratis-single-canonical-peak.webp",
+  "character": "Dante Zogratis",
+  "form": "Single Canonical Peak",
+  "official": true,
+  "source": "Official Anime Art",
+  "width": 553,
+  "height": 415,
+  "original": "Dante Zogratis - Single Canonical Peak - Black Clover - Official Anime Art.jpg"
+ },
+ "0848": {
+  "file": "cards/0848_vanica-zogratis-single-canonical-peak.webp",
+  "character": "Vanica Zogratis",
+  "form": "Single Canonical Peak",
+  "official": true,
+  "source": "Official Anime Art",
+  "width": 1440,
+  "height": 1080,
+  "original": "Vanica Zogratis - Single Canonical Peak - Black Clover - Official Anime Art.jpg"
+ },
+ "BC-010": {
+  "file": "cards/BC-010_megicula-curse-warding-magic-partial-manifestation.webp",
+  "character": "Megicula",
+  "form": "Curse-Warding Magic Partial Manifestation",
+  "official": true,
+  "source": "Official Manga Art",
+  "width": 751,
+  "height": 563,
+  "original": "Megicula - Curse-Warding Magic Partial Manifestation - Black Clover - Official Manga Art.jpg"
+ },
+ "BC-011": {
+  "file": "cards/BC-011_lilith-naamah-single-canonical-peak.webp",
+  "character": "Lilith & Naamah",
+  "form": "Single Canonical Peak",
+  "official": false,
+  "source": "kitsui",
+  "artist": "kitsui",
+  "width": 640,
+  "height": 480,
+  "original": "Lilith Naamah - Single Canonical Peak - Black Clover - kitsui.jpg"
+ },
+ "BC-016": {
+  "file": "cards/BC-016_ichika-yami-dark-yojutsu-zetten.webp",
+  "character": "Ichika Yami",
+  "form": "Dark Yojutsu Zetten",
+  "official": true,
+  "source": "Official Manga Art",
+  "width": 250,
+  "height": 187,
+  "original": "Ichika Yami - Dark Yojutsu Zetten - Black Clover - Official Manga Art.jpg"
+ },
+ "BC-017": {
+  "file": "cards/BC-017_damnatio-kira-paladin-scale-and-atmosphere-magic.webp",
+  "character": "Damnatio Kira",
+  "form": "Paladin Scale and Atmosphere Magic",
+  "official": true,
+  "source": "Official Manga Art",
+  "width": 480,
+  "height": 360,
+  "original": "Damnatio Kira - Paladin Scale and Atmosphere Magic - Black Clover - Official Manga Art.jpg"
+ },
+ "BC-018": {
+  "file": "cards/BC-018_sister-lily-paladin-beelzebub-spatial-magic.webp",
+  "character": "Sister Lily",
+  "form": "Paladin Beelzebub Spatial Magic",
+  "official": false,
+  "source": "iluvluvnutella",
+  "artist": "iluvluvnutella",
+  "width": 320,
+  "height": 240,
+  "original": "Sister Lily - Paladin Beelzebub Spatial Magic - Black Clover - iluvluvnutella.png"
+ },
+ "BC-020": {
+  "file": "cards/BC-020_asta-devil-union-spade-kingdom-raid.webp",
+  "character": "Asta",
+  "form": "Devil Union Spade Kingdom Raid",
+  "official": true,
+  "source": "Official Anime Art",
+  "width": 1200,
+  "height": 900,
+  "original": "Asta - Devil Union Spade Kingdom Raid - Black Clover - Official Anime Art.jpg"
+ },
+ "BC-027": {
+  "file": "cards/BC-027_yuno-grinberryall-spirit-dive-spade-kingdom-raid.webp",
+  "character": "Yuno Grinberryall",
+  "form": "Spirit Dive Spade Kingdom Raid",
+  "official": true,
+  "source": "Official Anime Art",
+  "width": 1440,
+  "height": 1080,
+  "original": "Yuno Grinberryall - Spirit Dive Spade Kingdom Raid - Black Clover - Official Anime Art.jpg"
+ },
+ "BC-M01": {
+  "file": "cards/BC-M01_conrad-leto-imperial-sword-eldocia-movie-peak.webp",
+  "character": "Conrad Leto",
+  "form": "Imperial Sword Eldocia Movie Peak",
+  "official": true,
+  "source": "Official Anime Art",
+  "width": 736,
+  "height": 552,
+  "original": "Conrad Leto - Imperial Sword Eldocia Movie Peak - Black Clover - Official Anime Art.jpg"
+ },
+ "BC-M02": {
+  "file": "cards/BC-M02_princia-funnybunny-legion-magic-end-empress-movie-peak.webp",
+  "character": "Princia Funnybunny",
+  "form": "Legion Magic End Empress Movie Peak",
+  "official": true,
+  "source": "Official Anime Art",
+  "width": 736,
+  "height": 552,
+  "original": "Princia Funnybunny - Legion Magic End Empress Movie Peak - Black Clover - Official Anime Art.jpg"
+ },
+ "BC-M03": {
+  "file": "cards/BC-M03_jester-garandros-barrier-magic-movie-peak.webp",
+  "character": "Jester Garandros",
+  "form": "Barrier Magic Movie Peak",
+  "official": true,
+  "source": "Official Anime Art",
+  "width": 960,
+  "height": 720,
+  "original": "Jester Garandros - Barrier Magic Movie Peak - Black Clover - Official Anime Art.jpg"
+ },
+ "BC-M05": {
+  "file": "cards/BC-M05_asta-imperial-sword-eldocia-movie-peak.webp",
+  "character": "Asta",
+  "form": "Imperial Sword Eldocia Movie Peak",
+  "official": true,
+  "source": "Official Anime Art",
+  "width": 512,
+  "height": 384,
+  "original": "Asta - Imperial Sword Eldocia Movie Peak - Black Clover - Official Anime Art.jpg"
+ },
+ "DB-003": {
+  "file": "cards/DB-003_frieza-black-frieza.webp",
+  "character": "Frieza",
+  "form": "Black Frieza",
+  "official": true,
+  "source": "Official Manga Art",
+  "width": 640,
+  "height": 480,
+  "original": "Frieza - Black Frieza - Dragon Ball - Official Manga Art.jpg"
+ },
+ "DB-006": {
+  "file": "cards/DB-006_vegeta-ultra-ego.webp",
+  "character": "Vegeta",
+  "form": "Ultra Ego",
+  "official": true,
+  "source": "Official Manga Art",
+  "width": 245,
+  "height": 184,
+  "original": "Vegeta - Ultra Ego - Dragon Ball - Official Manga Art.jpg"
+ },
+ "DB-007": {
+  "file": "cards/DB-007_goku-mastered-ultra-instinct.webp",
+  "character": "Goku",
+  "form": "Mastered Ultra Instinct",
+  "official": true,
+  "source": "Official Anime Art",
+  "width": 500,
+  "height": 375,
+  "original": "Goku - Mastered Ultra Instinct - Dragon Ball - Official Anime Art.jpg"
+ },
+ "DB-008": {
+  "file": "cards/DB-008_jiren-peak.webp",
+  "character": "Jiren",
+  "form": "Peak",
+  "official": true,
+  "source": "Official Anime Art",
+  "width": 1536,
+  "height": 1152,
+  "original": "Jiren - Peak - Dragon Ball - Official Anime Art.jpg"
+ },
+ "DB-009": {
+  "file": "cards/DB-009_gohan-beast.webp",
+  "character": "Gohan",
+  "form": "Beast",
+  "official": false,
+  "source": "uncredited",
+  "artist": null,
+  "width": 640,
+  "height": 480,
+  "original": "Gohan - Beast - Dragon Ball - uncredited.jpg"
+ },
+ "DB-010": {
+  "file": "cards/DB-010_moro-seven-three-absorbed.webp",
+  "character": "Moro",
+  "form": "Seven Three Absorbed",
+  "official": false,
+  "source": "horang4628",
+  "artist": "horang4628",
+  "width": 491,
+  "height": 368,
+  "original": "Moro - Seven Three Absorbed - Dragon Ball - horang4628.jpg"
+ },
+ "DB-011": {
+  "file": "cards/DB-011_cell-max-peak.webp",
+  "character": "Cell Max",
+  "form": "Peak",
+  "official": true,
+  "source": "Official Art",
+  "width": 1600,
+  "height": 1200,
+  "original": "Cell Max - Peak - Dragon Ball - Official Art.jpg"
+ },
+ "DB-012": {
+  "file": "cards/DB-012_broly-super-super.webp",
+  "character": "Broly (Super)",
+  "form": "Super",
+  "official": true,
+  "source": "Official Anime Art",
+  "width": 1016,
+  "height": 762,
+  "original": "Broly - Super - Dragon Ball - Official Anime Art.jpg"
+ },
+ "DB-013": {
+  "file": "cards/DB-013_hit-time-skip-peak.webp",
+  "character": "Hit",
+  "form": "Time Skip Peak",
+  "official": true,
+  "source": "Official Art",
+  "width": 619,
+  "height": 464,
+  "original": "Hit - Time Skip Peak - Dragon Ball - Official Art.jpg"
+ },
+ "DB-014": {
+  "file": "cards/DB-014_piccolo-orange.webp",
+  "character": "Piccolo",
+  "form": "Orange",
+  "official": true,
+  "source": "Official Anime Art",
+  "width": 733,
+  "height": 550,
+  "original": "Piccolo - Orange - Dragon Ball - Official Anime Art.jpg"
+ },
+ "DB-035": {
+  "file": "cards/DB-035_gas-awakened.webp",
+  "character": "Gas",
+  "form": "Awakened",
+  "official": true,
+  "source": "Official Manga Art",
+  "width": 1600,
+  "height": 1200,
+  "original": "Gas - Awakened - Dragon Ball - Official Manga Art.jpg"
+ },
+ "DB-036": {
+  "file": "cards/DB-036_granolah-peak.webp",
+  "character": "Granolah",
+  "form": "Peak",
+  "official": true,
+  "source": "Official Art",
+  "width": 340,
+  "height": 255,
+  "original": "Granolah - Peak - Dragon Ball - Official Art.jpg"
+ },
+ "DB-037": {
+  "file": "cards/DB-037_toppo-god-of-destruction.webp",
+  "character": "Toppo",
+  "form": "God of Destruction",
+  "official": true,
+  "source": "Official Anime Art",
+  "width": 960,
+  "height": 720,
+  "original": "Toppo - God of Destruction - Dragon Ball - Official Anime Art.jpg"
+ }
+}
