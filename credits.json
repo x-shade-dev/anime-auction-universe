@@ -1,4 +1,34 @@
 {
+ "1221": {
+  "file": "cards/1221_toji-fushiguro-peak.webp",
+  "character": "Toji Fushiguro",
+  "form": "Peak",
+  "official": true,
+  "source": "Official Art",
+  "width": 1440,
+  "height": 1080,
+  "original": "Toji Fushiguro - Peak - Jujutsu Kaisen - Official Art.jpg"
+ },
+ "1223": {
+  "file": "cards/1223_rika-orimoto-single-peak.webp",
+  "character": "Rika Orimoto",
+  "form": "Single Peak",
+  "official": true,
+  "source": "Official Art",
+  "width": 360,
+  "height": 270,
+  "original": "Rika Orimoto - Single Peak - Jujutsu Kaisen - Official Art.jpg"
+ },
+ "1226": {
+  "file": "cards/1226_maru-modulo.webp",
+  "character": "Maru",
+  "form": "Modulo",
+  "official": true,
+  "source": "Official Art",
+  "width": 220,
+  "height": 165,
+  "original": "Maru - Modulo - Jujutsu Kaisen - Official Art.jpg"
+ },
  "1228": {
   "file": "cards/1228_patry-single-canonical-peak.webp",
   "character": "Patry",
@@ -51,6 +81,37 @@
   "width": 1600,
   "height": 1277,
   "original": "Ichigo Kuroski - True Bankai - Bleach - Crain1Art.jpg"
+ },
+ "0039": {
+  "file": "cards/0039_satoru-gojo-shinjuku.webp",
+  "character": "Satoru Gojo",
+  "form": "Shinjuku",
+  "official": false,
+  "source": "Madbull777",
+  "artist": "Madbull777",
+  "width": 1179,
+  "height": 884,
+  "original": "Satoru Gojo - Shinjuku - Jujutsu Kaisen - Madbull777.jpg"
+ },
+ "0040": {
+  "file": "cards/0040_yuta-okkotsu-culling-games.webp",
+  "character": "Yuta Okkotsu",
+  "form": "Culling Games",
+  "official": true,
+  "source": "Official Art",
+  "width": 447,
+  "height": 335,
+  "original": "Yuta Okkotsu - Culling Games - Jujutsu Kaisen - Official Art.jpg"
+ },
+ "0041": {
+  "file": "cards/0041_kenjaku-geto-body.webp",
+  "character": "Kenjaku",
+  "form": "Geto Body",
+  "official": true,
+  "source": "Official Art",
+  "width": 1600,
+  "height": 1200,
+  "original": "Kenjaku - Geto Body - Jujutsu Kaisen - Official Art.jpg"
  },
  "0049": {
   "file": "cards/0049_lucius-zogratis-peak.webp",
@@ -152,6 +213,16 @@
   "height": 270,
   "original": "Zenon Zogratis - Devil Heart - Black Clover - Official Manga Art.jpg"
  },
+ "0070": {
+  "file": "cards/0070_kafka-hibino-kaiju-no-8.webp",
+  "character": "Kafka Hibino",
+  "form": "Kaiju No. 8",
+  "official": true,
+  "source": "Official Art",
+  "width": 536,
+  "height": 402,
+  "original": "Kafka Hibino - Kaiju No. 8 - Kaiju No. 8 - Official Art.png"
+ },
  "0079": {
   "file": "cards/0079_sung-jinwoo-shadow-monarch-peak.webp",
   "character": "Sung Jinwoo",
@@ -161,6 +232,26 @@
   "width": 728,
   "height": 546,
   "original": "Sung Jinwoo - Shadow Monarch Peak - Solo Leveling - Official Manhwa Art.jpg"
+ },
+ "0088": {
+  "file": "cards/0088_tomura-shigaraki-final-war.webp",
+  "character": "Tomura Shigaraki",
+  "form": "Final War",
+  "official": true,
+  "source": "Official Art",
+  "width": 472,
+  "height": 354,
+  "original": "Tomura Shigaraki - Final War - My Hero Academia - Official Art.jpg"
+ },
+ "0089": {
+  "file": "cards/0089_izuku-midoriya-final-war.webp",
+  "character": "Izuku Midoriya",
+  "form": "Final War",
+  "official": true,
+  "source": "Official Art",
+  "width": 1237,
+  "height": 928,
+  "original": "Izuku Midoriya - Final War - My Hero Academia - Official Art.jpg"
  },
  "0108": {
   "file": "cards/0108_darkness-devil-peak.webp",
@@ -182,6 +273,26 @@
   "height": 415,
   "original": "Shinra Kisakabe - Shinrabanshoman - Fire Force - Official Anime Art.jpg"
  },
+ "0118": {
+  "file": "cards/0118_haumea-evangelist.webp",
+  "character": "Haumea",
+  "form": "Evangelist",
+  "official": true,
+  "source": "Official Art",
+  "width": 1200,
+  "height": 900,
+  "original": "Haumea - Evangelist - Fire Force - Official Art.jpg"
+ },
+ "0119": {
+  "file": "cards/0119_arthur-boyle-knight-king.webp",
+  "character": "Arthur Boyle",
+  "form": "Knight King",
+  "official": true,
+  "source": "Official Art",
+  "width": 301,
+  "height": 226,
+  "original": "Arthur Boyle - Knight King - Fire Force - Official Art.jpg"
+ },
  "0143": {
   "file": "cards/0143_acnologia-dragon-peak.webp",
   "character": "Acnologia",
@@ -192,6 +303,16 @@
   "width": 1600,
   "height": 1200,
   "original": "Acnologia - Dragon Peak - Fairy Tail - Chreii05.png"
+ },
+ "0144": {
+  "file": "cards/0144_zeref-dragneel-fairy-heart.webp",
+  "character": "Zeref Dragneel",
+  "form": "Fairy Heart",
+  "official": true,
+  "source": "Official Art",
+  "width": 640,
+  "height": 480,
+  "original": "Zeref Dragneel - Fairy Heart - Fairy Tail - Official Art.jpg"
  },
  "0164": {
   "file": "cards/0164_arthur-pendragon-king-of-chaos.webp",
@@ -213,6 +334,36 @@
   "width": 602,
   "height": 452,
   "original": "Giorno Giovanna - Gold Experience Requiem - Jojo's Bizarre Adventure - Official Anime Art.jpg"
+ },
+ "0184": {
+  "file": "cards/0184_tooru-wonder-of-u.webp",
+  "character": "Tooru",
+  "form": "Wonder of U",
+  "official": true,
+  "source": "Official Art",
+  "width": 300,
+  "height": 225,
+  "original": "Tooru - Wonder of U - Jojos Bizarre Adventure - Official Art.jpg"
+ },
+ "0185": {
+  "file": "cards/0185_johnny-joestar-tusk-act-4.webp",
+  "character": "Johnny Joestar",
+  "form": "Tusk Act 4",
+  "official": true,
+  "source": "Official Art",
+  "width": 484,
+  "height": 363,
+  "original": "Johnny Joestar - Tusk Act 4 - Jojos Bizarre Adventure - Official Art.jpg"
+ },
+ "0218": {
+  "file": "cards/0218_father-god-absorbed.webp",
+  "character": "Father",
+  "form": "god Absorbed",
+  "official": true,
+  "source": "Official Art",
+  "width": 960,
+  "height": 720,
+  "original": "Father - god Absorbed - Full Metal Alchemist - Official Art.jpg"
  },
  "0277": {
   "file": "cards/0277_lucifer-peak.webp",
@@ -307,6 +458,28 @@
   "height": 480,
   "original": "Viral - Tengen Toppa Gurren Lagann - Gurren Lagann - Edobox.jpg"
  },
+ "0583": {
+  "file": "cards/0583_kittan-bachika-king-kittan.webp",
+  "character": "Kittan Bachika",
+  "form": "King Kittan",
+  "official": false,
+  "source": "Ricardo Lopez Ortiz",
+  "artist": "Ricardo Lopez Ortiz",
+  "width": 791,
+  "height": 593,
+  "original": "Kittan Bachika - King Kittan - Gurren Lagann - Ricardo Lopez Ortiz.jpg"
+ },
+ "0587": {
+  "file": "cards/0587_shinji-ikari-eva-0-awakened.webp",
+  "character": "Shinji Ikari",
+  "form": "EVA 0 Awakened",
+  "official": false,
+  "source": "uncredited",
+  "artist": null,
+  "width": 1024,
+  "height": 768,
+  "original": "Shinji Ikari - EVA 0 Awakened - Evangelion - ArtStation.jpg"
+ },
  "0701": {
   "file": "cards/0701_sparda-legendary-prime.webp",
   "character": "Sparda",
@@ -327,6 +500,16 @@
   "width": 1600,
   "height": 1200,
   "original": "Gilgamesh - Stay Night Archer - Fate stay Night - otemoto02.jpg"
+ },
+ "0833": {
+  "file": "cards/0833_hiromi-higuruma-peak.webp",
+  "character": "Hiromi Higuruma",
+  "form": "Peak",
+  "official": true,
+  "source": "Official Art",
+  "width": 488,
+  "height": 366,
+  "original": "Hiromi Higuruma - Peak - Jujutsu Kaisen - Official Art.jpg"
  },
  "0837": {
   "file": "cards/0837_nacht-faust-single-canonical-peak.webp",
@@ -621,5 +804,56 @@
   "width": 960,
   "height": 720,
   "original": "Toppo - God of Destruction - Dragon Ball - Official Anime Art.jpg"
+ },
+ "JJK-002": {
+  "file": "cards/JJK-002_satoru-gojo-hidden-inventory.webp",
+  "character": "Satoru Gojo",
+  "form": "Hidden Inventory",
+  "official": true,
+  "source": "Official Art",
+  "width": 865,
+  "height": 649,
+  "original": "Satoru Gojo - Hidden Inventory - Jujutsu Kaisen - Official Art.jpg"
+ },
+ "JJK-004": {
+  "file": "cards/JJK-004_ryomen-sukuna-shibuya.webp",
+  "character": "Ryomen Sukuna",
+  "form": "Shibuya",
+  "official": true,
+  "source": "Official Art",
+  "width": 551,
+  "height": 413,
+  "original": "Ryomen Sukuna - Shibuya - Jujutsu Kaisen - Official Art.jpg"
+ },
+ "JJK-005": {
+  "file": "cards/JJK-005_ryomen-sukuna-megumi-vessel.webp",
+  "character": "Ryomen Sukuna",
+  "form": "Megumi Vessel",
+  "official": false,
+  "source": "uncredited",
+  "artist": null,
+  "width": 640,
+  "height": 480,
+  "original": "Ryomen Sukuna - Megumi Vessel - Jujutsu Kaisen - unknown.jpg"
+ },
+ "JJK-007": {
+  "file": "cards/JJK-007_yuki-tsukumo-star-rage.webp",
+  "character": "Yuki Tsukumo",
+  "form": "Star Rage",
+  "official": true,
+  "source": "Official Art",
+  "width": 1200,
+  "height": 900,
+  "original": "Yuki Tsukumo - Star Rage - Jujutsu Kaisen - Official Art.jpg"
+ },
+ "JJK-028": {
+  "file": "cards/JJK-028_yuji-itadori-modulo-old-man.webp",
+  "character": "Yuji Itadori",
+  "form": "Modulo Old Man",
+  "official": true,
+  "source": "Official Art",
+  "width": 493,
+  "height": 370,
+  "original": "Yuji Itadori - Modulo Old Man - Jujutsu Kaisen Modulo - Official Art.jpg"
  }
 }
