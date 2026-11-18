@@ -29,6 +29,16 @@
   "height": 165,
   "original": "Maru - Modulo - Jujutsu Kaisen - Official Art.jpg"
  },
+ "1227": {
+  "file": "cards/1227_dabura-modulo-peak.webp",
+  "character": "Dabura (Modulo)",
+  "form": "Peak",
+  "official": true,
+  "source": "Official Art",
+  "width": 640,
+  "height": 480,
+  "original": "Dabura - Peak - Jujutsu Kaisen - Official Art.jpg"
+ },
  "1228": {
   "file": "cards/1228_patry-single-canonical-peak.webp",
   "character": "Patry",
@@ -49,6 +59,36 @@
   "width": 736,
   "height": 552,
   "original": "Naruto Uzumaki - Baryon Mode - Naruto - Official Anime Art.jpg"
+ },
+ "0002": {
+  "file": "cards/0002_isshiki-otsutsuki-peak.webp",
+  "character": "Isshiki Otsutsuki",
+  "form": "Peak",
+  "official": true,
+  "source": "Official Art",
+  "width": 640,
+  "height": 480,
+  "original": "Isshiki Otsutsuki - Peak - Naruto Boruto - Official Art.jpg"
+ },
+ "0003": {
+  "file": "cards/0003_kaguya-otsutsuki-peak.webp",
+  "character": "Kaguya Otsutsuki",
+  "form": "Peak",
+  "official": true,
+  "source": "Official Art",
+  "width": 1600,
+  "height": 954,
+  "original": "Kaguya Otsutsuki - Peak - Naruto Boruto - Official Art.png"
+ },
+ "0013": {
+  "file": "cards/0013_monkey-d-luffy-gear-5.webp",
+  "character": "Monkey D. Luffy",
+  "form": "Gear 5",
+  "official": true,
+  "source": "Official Art",
+  "width": 1000,
+  "height": 750,
+  "original": "Luffy - Gear 5 - One Piece - Official Art.jpg"
  },
  "0026": {
   "file": "cards/0026_yhwach-soul-king-absorbed.webp",
@@ -233,6 +273,26 @@
   "height": 546,
   "original": "Sung Jinwoo - Shadow Monarch Peak - Solo Leveling - Official Manhwa Art.jpg"
  },
+ "0080": {
+  "file": "cards/0080_antares-monarch-of-destruction.webp",
+  "character": "Antares",
+  "form": "Monarch of Destruction",
+  "official": true,
+  "source": "Official Art",
+  "width": 1440,
+  "height": 1080,
+  "original": "Antares - Monarch of Destruction - Solo Leveling - Official Art.jpg"
+ },
+ "0081": {
+  "file": "cards/0081_ashborn-shadow-monarch.webp",
+  "character": "Ashborn",
+  "form": "Shadow Monarch",
+  "official": true,
+  "source": "Official Art",
+  "width": 512,
+  "height": 384,
+  "original": "Ashborn - Shadow Monarch - Solo Leveling - Official Art.jpg"
+ },
  "0088": {
   "file": "cards/0088_tomura-shigaraki-final-war.webp",
   "character": "Tomura Shigaraki",
@@ -293,6 +353,26 @@
   "height": 226,
   "original": "Arthur Boyle - Knight King - Fire Force - Official Art.jpg"
  },
+ "0127": {
+  "file": "cards/0127_asura-kishin.webp",
+  "character": "Asura",
+  "form": "Kishin",
+  "official": true,
+  "source": "Official Art",
+  "width": 1080,
+  "height": 1080,
+  "original": "Asura - Kishin - Soul Eater - Official Art.jpg"
+ },
+ "0128": {
+  "file": "cards/0128_death-shinigami.webp",
+  "character": "Death",
+  "form": "Shinigami",
+  "official": true,
+  "source": "Official Art",
+  "width": 542,
+  "height": 407,
+  "original": "Death - Shinigami - Soul Eater - Official Art.jpg"
+ },
  "0143": {
   "file": "cards/0143_acnologia-dragon-peak.webp",
   "character": "Acnologia",
@@ -324,6 +404,27 @@
   "width": 1600,
   "height": 1200,
   "original": "Arthur Pendragon - King of Chaos - Seven Deadly Sins - tiomejico.png"
+ },
+ "0165": {
+  "file": "cards/0165_demon-king-peak.webp",
+  "character": "Demon King",
+  "form": "Peak",
+  "official": true,
+  "source": "Official Art",
+  "width": 1024,
+  "height": 768,
+  "original": "Demon King - Peak - Seven Deadly Sins - Official Art.jpg"
+ },
+ "0167": {
+  "file": "cards/0167_meliodas-post-commandments.webp",
+  "character": "Meliodas",
+  "form": "Post Commandments",
+  "official": false,
+  "source": "D4n Arts",
+  "artist": "D4n Arts",
+  "width": 600,
+  "height": 450,
+  "original": "Meliodas - Post Commandments - Seven Deadly Sins - D4n Arts.png"
  },
  "0183": {
   "file": "cards/0183_giorno-giovanna-gold-experience-requiem.webp",
@@ -386,6 +487,26 @@
   "height": 675,
   "original": "Rin Okumura - Awakened Demon Heart - Blue Exorcist - Grinu.png"
  },
+ "0315": {
+  "file": "cards/0315_clear-note-final-form.webp",
+  "character": "Clear Note",
+  "form": "Final Form",
+  "official": true,
+  "source": "Official Art",
+  "width": 191,
+  "height": 143,
+  "original": "Clear Note - Final Form - Zatch Bell - Official Art.jpg"
+ },
+ "0316": {
+  "file": "cards/0316_zatch-bell-final-baou.webp",
+  "character": "Zatch Bell",
+  "form": "Final Baou",
+  "official": true,
+  "source": "Official Art",
+  "width": 713,
+  "height": 535,
+  "original": "Zatch Bell - Final Baou - Zatch Bell - Official Art.jpg"
+ },
  "0360": {
   "file": "cards/0360_rimuru-tempest-demon-lord-ciel.webp",
   "character": "Rimuru Tempest",
@@ -395,6 +516,27 @@
   "width": 1600,
   "height": 1200,
   "original": "Rimuru Tempest - Demon Lord Ciel - That Time I Got Reincarnated As A Slime - Official Anime Art.png"
+ },
+ "0361": {
+  "file": "cards/0361_feldway-peak.webp",
+  "character": "Feldway",
+  "form": "Peak",
+  "official": false,
+  "source": "uncredited",
+  "artist": null,
+  "width": 464,
+  "height": 348,
+  "original": "Feldway - Peak - Slime - Original Art.jpg"
+ },
+ "0362": {
+  "file": "cards/0362_michael-peak.webp",
+  "character": "Michael",
+  "form": "Peak",
+  "official": true,
+  "source": "Official Art",
+  "width": 250,
+  "height": 188,
+  "original": "Michael - Peak - Slime - Official Art.jpg"
  },
  "0363": {
   "file": "cards/0363_guy-crimson-peak.webp",
@@ -416,6 +558,56 @@
   "height": 552,
   "original": "Milim Nava - Peak - That Time I Got Reincarnated As A Slime - Official Game Art.jpg"
  },
+ "0365": {
+  "file": "cards/0365_velzard-true-dragon.webp",
+  "character": "Velzard",
+  "form": "True Dragon",
+  "official": true,
+  "source": "Official Art",
+  "width": 1600,
+  "height": 1200,
+  "original": "Velzard - True Dragon - Slime - Official Art.jpg"
+ },
+ "0366": {
+  "file": "cards/0366_velgrynd-true-dragon.webp",
+  "character": "Velgrynd",
+  "form": "True Dragon",
+  "official": true,
+  "source": "Official Art",
+  "width": 635,
+  "height": 476,
+  "original": "Velgrynd - True Dragon - Slime - Official Art.jpg"
+ },
+ "0367": {
+  "file": "cards/0367_veldora-tempest-true-dragon.webp",
+  "character": "Veldora Tempest",
+  "form": "True Dragon",
+  "official": true,
+  "source": "Official Art",
+  "width": 624,
+  "height": 468,
+  "original": "Veldora Tempest - True Dragon - Slime - Official Art.jpg"
+ },
+ "0368": {
+  "file": "cards/0368_chloe-aubert-chronoa.webp",
+  "character": "Chloe Aubert",
+  "form": "Chronoa",
+  "official": true,
+  "source": "Official Art",
+  "width": 480,
+  "height": 360,
+  "original": "Chloe Aubert - Chronoa - Slime - Official Art.jpg"
+ },
+ "0380": {
+  "file": "cards/0380_ainz-ooal-gown-level-100.webp",
+  "character": "Ainz Ooal Gown",
+  "form": "Level 100",
+  "official": true,
+  "source": "Official Art",
+  "width": 736,
+  "height": 1308,
+  "original": "Ainz Ooal Gown - Level 100 - Overlord - Official Art.jpg"
+ },
  "0498": {
   "file": "cards/0498_mori-jin-final-true-form.webp",
   "character": "Mori Jin",
@@ -425,6 +617,37 @@
   "width": 707,
   "height": 530,
   "original": "Mori Jin - Final True Form - The God of High School - Official Aime Art.jpg"
+ },
+ "0499": {
+  "file": "cards/0499_mujin-park-supreme-god.webp",
+  "character": "Mujin Park",
+  "form": "Supreme god",
+  "official": false,
+  "source": "Yongje Park",
+  "artist": "Yongje Park",
+  "width": 240,
+  "height": 180,
+  "original": "Mujin Park - Supreme god - god of High School - Yongje Park.jpg"
+ },
+ "0500": {
+  "file": "cards/0500_tathagata-supreme-being.webp",
+  "character": "Tathagata",
+  "form": "Supreme Being",
+  "official": true,
+  "source": "Official Art",
+  "width": 690,
+  "height": 518,
+  "original": "Tathagata - Supreme Being - god of High School - Official Art.jpg"
+ },
+ "0501": {
+  "file": "cards/0501_satan-666-peak.webp",
+  "character": "Satan 666",
+  "form": "Peak",
+  "official": true,
+  "source": "Official Art",
+  "width": 340,
+  "height": 255,
+  "original": "Satan 666 - Peak - god of High School - Official Art.jpg"
  },
  "0526": {
   "file": "cards/0526_saitama-latest-demonstrated.webp",
@@ -436,6 +659,27 @@
   "width": 452,
   "height": 339,
   "original": "Saitama - Latest demonstrated - One Punch Man - Ala21ddin21.jpg"
+ },
+ "0528": {
+  "file": "cards/0528_garou-cosmic-fear.webp",
+  "character": "Garou",
+  "form": "Cosmic Fear",
+  "official": true,
+  "source": "Official Art",
+  "width": 736,
+  "height": 552,
+  "original": "Garou - Cosmic Fear - One Punch Man - Official Art.jpg"
+ },
+ "0529": {
+  "file": "cards/0529_boros-meteoric-burst.webp",
+  "character": "Boros",
+  "form": "Meteoric Burst",
+  "official": false,
+  "source": "Realy-Q",
+  "artist": "Realy-Q",
+  "width": 788,
+  "height": 591,
+  "original": "Boros - Meteoric Burst - One Punch Man - Realy-Q.png"
  },
  "0577": {
   "file": "cards/0577_simon-super-tengen-toppa-gurren-lagann.webp",
@@ -500,6 +744,26 @@
   "width": 1600,
   "height": 1200,
   "original": "Gilgamesh - Stay Night Archer - Fate stay Night - otemoto02.jpg"
+ },
+ "0770": {
+  "file": "cards/0770_boruto-uzumaki-post-time-skip.webp",
+  "character": "Boruto Uzumaki",
+  "form": "Post Time Skip",
+  "official": true,
+  "source": "Official Art",
+  "width": 844,
+  "height": 633,
+  "original": "Boruto Uzumaki - Post Time Skip - Naruto Boruto - Official Art.jpg"
+ },
+ "0771": {
+  "file": "cards/0771_kawaki-karma.webp",
+  "character": "Kawaki",
+  "form": "Karma",
+  "official": true,
+  "source": "Official Art",
+  "width": 640,
+  "height": 480,
+  "original": "Kawaki Uzumaki - Karma - Naruto Boruto - Official Art.jpg"
  },
  "0833": {
   "file": "cards/0833_hiromi-higuruma-peak.webp",
@@ -855,5 +1119,15 @@
   "width": 493,
   "height": 370,
   "original": "Yuji Itadori - Modulo Old Man - Jujutsu Kaisen Modulo - Official Art.jpg"
+ },
+ "SL-901": {
+  "file": "cards/SL-901_sung-suho-monarch-of-transcendance.webp",
+  "character": "Sung Suho",
+  "form": "Monarch of Transcendance",
+  "official": true,
+  "source": "Official Art",
+  "width": 440,
+  "height": 330,
+  "original": "Sung Suho - Monarch of Transcendance - Solo Leveling - Official Art.jpg"
  }
 }
