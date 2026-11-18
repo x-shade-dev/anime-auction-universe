@@ -521,9 +521,8 @@
   "file": "cards/0361_feldway-peak.webp",
   "character": "Feldway",
   "form": "Peak",
-  "official": false,
-  "source": "uncredited",
-  "artist": null,
+  "official": true,
+  "source": "Official Art",
   "width": 464,
   "height": 348,
   "original": "Feldway - Peak - Slime - Original Art.jpg"
