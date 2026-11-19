@@ -6,70 +6,136 @@
    "artist": "Code X",
    "file": "music/code-x/power-surge.mp3",
    "cover": "music/covers/code-x.webp",
-   "bytes": 3741405
+   "bytes": 3741405,
+   "peak": 0.5779,
+   "gain": 0.947
   },
   {
    "title": "Take the Sky",
    "artist": "Code X",
    "file": "music/code-x/take-the-sky.mp3",
    "cover": "music/covers/code-x.webp",
-   "bytes": 4042134
+   "bytes": 4042134,
+   "peak": 0.6057,
+   "gain": 0.903
   },
   {
    "title": "Dark Wing",
    "artist": "Jinglediles",
    "file": "music/jinglediles/dark-wing.mp3",
    "cover": "music/covers/jinglediles.webp",
-   "bytes": 2333485
+   "bytes": 2333485,
+   "peak": 1.0799,
+   "gain": 0.507
   },
   {
    "title": "Naked Queen",
    "artist": "Jinglediles",
    "file": "music/jinglediles/naked-queen.mp3",
    "cover": "music/covers/jinglediles.webp",
-   "bytes": 4392470
+   "bytes": 4392470,
+   "peak": 1,
+   "gain": 0.547
   },
   {
    "title": "Rise of the Tyrant",
    "artist": "Jinglediles",
    "file": "music/jinglediles/rise-of-the-tyrant.mp3",
    "cover": "music/covers/jinglediles.webp",
-   "bytes": 2535765
+   "bytes": 2535765,
+   "peak": 1.0124,
+   "gain": 0.54
   },
   {
    "title": "Overdrive",
    "artist": "Sonomi Sound",
    "file": "music/sonomi-sound/overdrive.mp3",
    "cover": "music/covers/sonomi-sound.webp",
-   "bytes": 4484178
+   "bytes": 4484178,
+   "peak": 0.5665,
+   "gain": 0.966
   },
   {
    "title": "Path of Heaven",
    "artist": "Sonomi Sound",
    "file": "music/sonomi-sound/path-of-heaven.mp3",
    "cover": "music/covers/sonomi-sound.webp",
-   "bytes": 2175901
+   "bytes": 2175901,
+   "peak": 0.6776,
+   "gain": 0.808
   },
   {
    "title": "Power of One",
    "artist": "Sonomi Sound",
    "file": "music/sonomi-sound/power-of-one.mp3",
    "cover": "music/covers/sonomi-sound.webp",
-   "bytes": 3949469
+   "bytes": 3949469,
+   "peak": 0.6718,
+   "gain": 0.815
   },
   {
    "title": "Towards Victory",
    "artist": "Sonomi Sound",
    "file": "music/sonomi-sound/towards-victory.mp3",
    "cover": "music/covers/sonomi-sound.webp",
-   "bytes": 2635211
+   "bytes": 2635211,
+   "peak": 0.5751,
+   "gain": 0.951
   },
   {
    "title": "Under Moon",
    "artist": "Sonomi Sound",
    "file": "music/sonomi-sound/under-moon.mp3",
    "cover": "music/covers/sonomi-sound.webp",
-   "bytes": 4003636
+   "bytes": 4003636,
+   "peak": 0.5943,
+   "gain": 0.921
+  },
+  {
+   "title": "Crimson Trigger",
+   "artist": "High Velocity",
+   "file": "music/high-velocity/crimson-trigger.mp3",
+   "cover": "music/covers/high-velocity.webp",
+   "bytes": 4920328,
+   "peak": 0.5573,
+   "gain": 0.982
+  },
+  {
+   "title": "Full Speed Rush!",
+   "artist": "JezziKiah",
+   "file": "music/jezzikiah/full-speed-rush.mp3",
+   "cover": "music/covers/jezzikiah.webp",
+   "bytes": 4658069,
+   "peak": 0.6395,
+   "gain": 0.856
+  },
+  {
+   "title": "Kage No Paradox",
+   "artist": "OSAKAI",
+   "file": "music/osakai/kage-no-paradox.mp3",
+   "cover": "music/covers/osakai.webp",
+   "bytes": 5638302,
+   "peak": 0.6647,
+   "gain": 0.823
+  },
+  {
+   "title": "Kage No Yakusoku",
+   "artist": "OSAKAI",
+   "file": "music/osakai/kage-no-yakusoku.mp3",
+   "cover": "music/covers/osakai.webp",
+   "bytes": 5603479,
+   "peak": 0.5472,
+   "gain": 1
+  },
+  {
+   "title": "Yami Parade",
+   "artist": "OSAKAI",
+   "file": "music/osakai/yami-parade.mp3",
+   "cover": "music/covers/osakai.webp",
+   "bytes": 7180921,
+   "peak": 0.6741,
+   "gain": 0.812
   }
- ]
+ ],
+ "leveling": "Every track plays at the quietest peak: gain = quietest peak / its peak (the player multiplies its volume by gain)."
 }
