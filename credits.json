@@ -90,6 +90,16 @@
   "height": 750,
   "original": "Luffy - Gear 5 - One Piece - Official Art.jpg"
  },
+ "0015": {
+  "file": "cards/0015_gol-d-roger-prime.webp",
+  "character": "Gol D. Roger",
+  "form": "Prime",
+  "official": true,
+  "source": "Eiichiro Oda",
+  "width": 736,
+  "height": 552,
+  "original": "Gol D. Roger - Prime - One Piece - Eiichiro Oda.jpg"
+ },
  "0026": {
   "file": "cards/0026_yhwach-soul-king-absorbed.webp",
   "character": "Yhwach",
@@ -323,6 +333,16 @@
   "height": 588,
   "original": "Darkness Devil - Peak - Chainsaw Man - Official Manga Art.jpg"
  },
+ "0109": {
+  "file": "cards/0109_pochita-hero-of-hell.webp",
+  "character": "Pochita",
+  "form": "Hero of Hell",
+  "official": true,
+  "source": "Official Art",
+  "width": 250,
+  "height": 188,
+  "original": "Pochita - Hero of Hell - Chainsaw Man - Official Art.jpg"
+ },
  "0117": {
   "file": "cards/0117_shinra-kusakabe-shinrabanshoman.webp",
   "character": "Shinra Kusakabe",
@@ -456,6 +476,26 @@
   "height": 363,
   "original": "Johnny Joestar - Tusk Act 4 - Jojos Bizarre Adventure - Official Art.jpg"
  },
+ "0203": {
+  "file": "cards/0203_raizen-prime-historical.webp",
+  "character": "Raizen",
+  "form": "Prime Historical",
+  "official": true,
+  "source": "Official Art",
+  "width": 1256,
+  "height": 942,
+  "original": "Raizen - Prime Historical - Yu Yu Hakasho - Official Art.jpg"
+ },
+ "0205": {
+  "file": "cards/0205_mukuro-three-kings.webp",
+  "character": "Mukuro",
+  "form": "Three Kings",
+  "official": true,
+  "source": "Official Art",
+  "width": 862,
+  "height": 647,
+  "original": "Mukuro - Three Kings - Yu Yu Hakasho - Official Art.jpg"
+ },
  "0218": {
   "file": "cards/0218_father-god-absorbed.webp",
   "character": "Father",
@@ -465,6 +505,26 @@
   "width": 960,
   "height": 720,
   "original": "Father - god Absorbed - Full Metal Alchemist - Official Art.jpg"
+ },
+ "0236": {
+  "file": "cards/0236_armin-arlert-colossal-titan.webp",
+  "character": "Armin Arlert",
+  "form": "Colossal Titan",
+  "official": true,
+  "source": "Official Art",
+  "width": 1000,
+  "height": 750,
+  "original": "Armin Arlert - Colossal Titan - Attack on Titan - Official Art.jpg"
+ },
+ "0237": {
+  "file": "cards/0237_bertholdt-hoover-colossal-titan.webp",
+  "character": "Bertholdt Hoover",
+  "form": "Colossal Titan",
+  "official": true,
+  "source": "Official Art",
+  "width": 1080,
+  "height": 810,
+  "original": "Bertholdt Hoover - Colossal Titan - Attack on Titan - Official Art.jpg"
  },
  "0277": {
   "file": "cards/0277_lucifer-peak.webp",
@@ -506,6 +566,16 @@
   "width": 713,
   "height": 535,
   "original": "Zatch Bell - Final Baou - Zatch Bell - Official Art.jpg"
+ },
+ "0345": {
+  "file": "cards/0345_sesshomaru-bakusaiga.webp",
+  "character": "Sesshomaru",
+  "form": "Bakusaiga",
+  "official": true,
+  "source": "Official Art",
+  "width": 737,
+  "height": 553,
+  "original": "Sesshomaru - Bakusaiga - Inuyasha - Official Art.jpg"
  },
  "0360": {
   "file": "cards/0360_rimuru-tempest-demon-lord-ciel.webp",
@@ -606,6 +676,26 @@
   "width": 736,
   "height": 1308,
   "original": "Ainz Ooal Gown - Level 100 - Overlord - Official Art.jpg"
+ },
+ "0426": {
+  "file": "cards/0426_fitoria-filolial-queen.webp",
+  "character": "Fitoria",
+  "form": "Filolial Queen",
+  "official": true,
+  "source": "Official Art",
+  "width": 519,
+  "height": 389,
+  "original": "Fitoria - Filolial Queen - Shield Hero - Official Art.jpg"
+ },
+ "0483": {
+  "file": "cards/0483_innocent-zero-final-time-magic.webp",
+  "character": "Innocent Zero",
+  "form": "Final Time Magic",
+  "official": true,
+  "source": "Official Art",
+  "width": 594,
+  "height": 446,
+  "original": "Innocent Zero - Final Time Magic - Mashle - Official Art.jpg"
  },
  "0498": {
   "file": "cards/0498_mori-jin-final-true-form.webp",
@@ -784,6 +874,66 @@
   "height": 537,
   "original": "Nacht Faust - Single Canonical Peak - Black Clover - Official Anime Art.jpg"
  },
+ "0838": {
+  "file": "cards/0838_fuegoleon-vermillion-salamander.webp",
+  "character": "Fuegoleon Vermillion",
+  "form": "Salamander",
+  "official": true,
+  "source": "Official Art",
+  "width": 837,
+  "height": 628,
+  "original": "Fuegoleon Vermillion - Salamander - Black Clover - Official Art.jpg"
+ },
+ "0839": {
+  "file": "cards/0839_nozel-silva-peak.webp",
+  "character": "Nozel Silva",
+  "form": "Peak",
+  "official": true,
+  "source": "Official Art",
+  "width": 240,
+  "height": 180,
+  "original": "Nozel Silva - Peak - Black Clover - Official Art.jpg"
+ },
+ "0841": {
+  "file": "cards/0841_jack-the-ripper-peak.webp",
+  "character": "Jack the Ripper",
+  "form": "Peak",
+  "official": true,
+  "source": "Official Art",
+  "width": 949,
+  "height": 712,
+  "original": "Jack the Ripper - Peak - Black Clover - Official Art.png"
+ },
+ "0842": {
+  "file": "cards/0842_rill-boismortier-peak.webp",
+  "character": "Rill Boismortier",
+  "form": "Peak",
+  "official": true,
+  "source": "Official Art",
+  "width": 720,
+  "height": 540,
+  "original": "Rill Boismortier - Peak - Black Clover - Official Art.jpg"
+ },
+ "0843": {
+  "file": "cards/0843_charlotte-roselei-peak.webp",
+  "character": "Charlotte Roselei",
+  "form": "Peak",
+  "official": true,
+  "source": "Official Art",
+  "width": 751,
+  "height": 563,
+  "original": "Charlotte Roselei - Peak - Black Clover - Official Art.jpg"
+ },
+ "0844": {
+  "file": "cards/0844_william-vangeance-peak.webp",
+  "character": "William Vangeance",
+  "form": "Peak",
+  "official": true,
+  "source": "Official Art",
+  "width": 749,
+  "height": 562,
+  "original": "William Vangeance - Peak - Black Clover - Official Art.jpg"
+ },
  "0845": {
   "file": "cards/0845_licht-single-canonical-peak.webp",
   "character": "Licht",
@@ -823,6 +973,16 @@
   "width": 1440,
   "height": 1080,
   "original": "Vanica Zogratis - Single Canonical Peak - Black Clover - Official Anime Art.jpg"
+ },
+ "0849": {
+  "file": "cards/0849_morris-libardirt-peak.webp",
+  "character": "Morris Libardirt",
+  "form": "Peak",
+  "official": true,
+  "source": "Official Art",
+  "width": 524,
+  "height": 393,
+  "original": "Morris Libardirt - Peak - Black Clover - Official Art.jpg"
  },
  "BC-010": {
   "file": "cards/BC-010_megicula-curse-warding-magic-partial-manifestation.webp",
@@ -886,6 +1046,16 @@
   "height": 900,
   "original": "Asta - Devil Union Spade Kingdom Raid - Black Clover - Official Anime Art.jpg"
  },
+ "BC-025": {
+  "file": "cards/BC-025_mereoleona-vermillion-elf-arc.webp",
+  "character": "Mereoleona Vermillion",
+  "form": "Elf Arc",
+  "official": true,
+  "source": "Official Art",
+  "width": 600,
+  "height": 450,
+  "original": "Mereoleona Vermillion - Elf Arc - Black Clover - Official Art.jpg"
+ },
  "BC-027": {
   "file": "cards/BC-027_yuno-grinberryall-spirit-dive-spade-kingdom-raid.webp",
   "character": "Yuno Grinberryall",
@@ -925,6 +1095,16 @@
   "width": 960,
   "height": 720,
   "original": "Jester Garandros - Barrier Magic Movie Peak - Black Clover - Official Anime Art.jpg"
+ },
+ "BC-M04": {
+  "file": "cards/BC-M04_edward-avalache-ice-wedge-magic.webp",
+  "character": "Edward Avalaché",
+  "form": "Ice Wedge Magic",
+  "official": true,
+  "source": "Official Art",
+  "width": 640,
+  "height": 480,
+  "original": "Edward Avalache - Ice Wedge Magic - Black Clover - Official Art.jpg"
  },
  "BC-M05": {
   "file": "cards/BC-M05_asta-imperial-sword-eldocia-movie-peak.webp",
