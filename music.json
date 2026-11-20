@@ -135,6 +135,41 @@
    "bytes": 7180921,
    "peak": 0.6741,
    "gain": 0.812
+  },
+  {
+   "title": "Burning Sky",
+   "artist": "Code X",
+   "file": "music/code-x/burning-sky.mp3",
+   "cover": "music/covers/code-x.webp",
+   "bytes": 4325397
+  },
+  {
+   "title": "Hyperion",
+   "artist": "Code X",
+   "file": "music/code-x/hyperion.mp3",
+   "cover": "music/covers/code-x.webp",
+   "bytes": 4532401
+  },
+  {
+   "title": "Maximum Effort (Instrumental)",
+   "artist": "High Velocity",
+   "file": "music/high-velocity/maximum-effort-instrumental.mp3",
+   "cover": "music/covers/high-velocity.webp",
+   "bytes": 5709016
+  },
+  {
+   "title": "Thorned Promise (Instrumental)",
+   "artist": "High Velocity",
+   "file": "music/high-velocity/thorned-promise-instrumental.mp3",
+   "cover": "music/covers/high-velocity.webp",
+   "bytes": 5990081
+  },
+  {
+   "title": "Shadow Requiem (Instrumental)",
+   "artist": "OSAKAI",
+   "file": "music/osakai/shadow-requiem-instrumental.mp3",
+   "cover": "music/covers/osakai.webp",
+   "bytes": 5588873
   }
  ],
  "leveling": "Every track plays at the quietest peak: gain = quietest peak / its peak (the player multiplies its volume by gain)."
